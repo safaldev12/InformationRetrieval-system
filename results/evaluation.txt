@@ -1,0 +1,28 @@
+============================================================
+INFORMATION RETRIEVAL SYSTEM - EVALUATION RESULTS
+============================================================
+
+TFIDF:
+  MAP: 0.1494
+  Recall@10: 0.1199
+  Recall@20: 0.1680
+  Recall@50: 0.2839
+  Queries Evaluated: 76
+
+COSINE:
+  MAP: 0.1071
+  Recall@10: 0.0900
+  Recall@20: 0.1472
+  Recall@50: 0.2331
+  Queries Evaluated: 76
+
+BOOLEAN:
+  MAP: 0.0005
+  Recall@10: 0.0005
+  Recall@20: 0.0005
+  Recall@50: 0.0005
+  Queries Evaluated: 76
+
+------------------------------------------------------------
+Best Model: TFIDF (MAP: 0.1494)
+============================================================
